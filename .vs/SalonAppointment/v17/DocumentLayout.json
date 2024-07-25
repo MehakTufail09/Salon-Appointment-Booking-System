@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|c:\\users\\pmls\\documents\\coding\\sad work\\salonappointment\\signuptologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:signuptologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\viewappointment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:viewappointment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\viewappointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:viewappointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\booking.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:booking.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\createslots.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:createslots.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\createslots.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:createslots.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3524177-C759-4F27-ACC0-87EC13FFBC52}|SalonAppointment.csproj|solutionrelative:signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "signupToLogin.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\signupToLogin.cs",
+              "RelativeDocumentMoniker": "signupToLogin.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\signupToLogin.cs",
+              "RelativeToolTip": "signupToLogin.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswCEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:55:13.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Booking.aspx.cs",
+              "RelativeDocumentMoniker": "Booking.aspx.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Booking.aspx.cs",
+              "RelativeToolTip": "Booking.aspx.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:28:42.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewAppointment.aspx",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\ViewAppointment.aspx",
+              "RelativeDocumentMoniker": "ViewAppointment.aspx",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\ViewAppointment.aspx",
+              "RelativeToolTip": "ViewAppointment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-22T05:45:10.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewAppointment.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\ViewAppointment.aspx.cs",
+              "RelativeDocumentMoniker": "ViewAppointment.aspx.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\ViewAppointment.aspx.cs",
+              "RelativeToolTip": "ViewAppointment.aspx.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:35:05.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "Signup.aspx.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Signup.aspx.cs",
+              "RelativeToolTip": "Signup.aspx.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwGwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:52:51.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Signup.aspx",
+              "RelativeDocumentMoniker": "Signup.aspx",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Signup.aspx",
+              "RelativeToolTip": "Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-22T04:50:42.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateSlots.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\CreateSlots.aspx.cs",
+              "RelativeDocumentMoniker": "CreateSlots.aspx.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\CreateSlots.aspx.cs",
+              "RelativeToolTip": "CreateSlots.aspx.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:55:38.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateSlots.aspx",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\CreateSlots.aspx",
+              "RelativeDocumentMoniker": "CreateSlots.aspx",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\CreateSlots.aspx",
+              "RelativeToolTip": "CreateSlots.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-21T17:55:18.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Signin.aspx",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Signin.aspx",
+              "RelativeDocumentMoniker": "Signin.aspx",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Signin.aspx",
+              "RelativeToolTip": "Signin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T18:35:33.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stylesheet.css",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\stylesheet.css",
+              "RelativeDocumentMoniker": "stylesheet.css",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\stylesheet.css",
+              "RelativeToolTip": "stylesheet.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-03T07:18:14.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Salon.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Salon.cs",
+              "RelativeDocumentMoniker": "Salon.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Salon.cs",
+              "RelativeToolTip": "Salon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:57:16.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Signin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Signin.aspx.cs",
+              "RelativeDocumentMoniker": "Signin.aspx.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Documents\\coding\\SAD work\\SalonAppointment\\Signin.aspx.cs",
+              "RelativeToolTip": "Signin.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:56:19.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

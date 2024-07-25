@@ -1,0 +1,120 @@
+﻿
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("/images/girl2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+}
+
+.loginpage, .signuppage {
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    transform: translate(-50%,_50%);
+    width: 350px;
+    height: 390px;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    background: rgb(0,0,0,0.5);
+}
+/*.signuppage {
+    position: absolute;
+    top: 10%;
+    left: 60%;
+    transform: translate(-50%,_50%);
+    width: 350px;
+    height: 490px;
+    padding: 50px 40px;
+    box-sizing: border-box;
+    background: rgb(0,0,0,0.5);
+}*/
+.admindashboard, .userdashboard {
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    transform: translate(-50%,_50%);
+    width: 350px;
+    height: 200px;
+    padding: 50px 40px;
+    box-sizing: border-box;
+    background: rgb(0,0,0,0.5);
+}
+.user {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    position: absolute;
+    top: calc(-100px/2);
+    left: calc(50% -50px);
+    border-radius: 50%;
+}
+#emailErrorLabel, #passwordErrorLabel{
+    color:red;
+}
+h2 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-weight:bold;
+}
+
+.lblemail, .lblpassword, .lblname, .lblph {
+    font-weight: bold;
+    color: #fff;
+}
+
+.txtemail, .txtpassword, .btnsignin, .btnsignup, .txtpassword, .txtname, .txtph, .btncreateslots, .btnviewappointment{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.txtemail, .txtpassword, .txtph, .txtname {
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    height: 35px;
+    color: #fff;
+    background-color: transparent;
+    font-size: 16px;
+}
+
+.btnsignin {
+    border: none;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    background-color:darkgoldenrod;
+    color: black;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+.btnsignup, .btnsignin, .btncreateslots, .btnbook, .btnuserappointment, .btnviewappointment {
+    border: none;
+    outline: none;
+    height: 40px;
+    top:20px;
+    font-size: 16px;
+    background-color: darkgoldenrod;
+    color: black;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+
+ .btnsignin:hover, .btnsignup:hover, .btncreateslots:hover, .btnviewappointment:hover, .btnuserappointment:hover, .btnbook:hover{
+        background-color: black;
+        color: darkgoldenrod;
+    }
+
+.linkbtnforgotpassword, .lblalready, linkbtnlogin {
+    color: white;
+}
+
+
+::placeholder {
+    color: rgb(255,255,255,.5);
+}
